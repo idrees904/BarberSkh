@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BarberSkh</string>
+    <string name="main_name">Категории</string>
+    <string name="CompanyTitle">Компании</string>
+    <string name="CompanyInfoTitle">О компании</string>
+    <string name="SpecialistTitle">Специалисты</string>
+    <string name="RecordTitle">Оформление</string>
+    <string name="choose_date">Выберите дату</string>
+    <string name="ready">Готово</string>
+</resources>
